@@ -1,4 +1,4 @@
-# UAS_PBO_EKA-F12.2022.00058
+# PENJUALAN Netbeans/Eka/F12.2022.00058
 
 Tugas akhir PBO
 Nama  : Bhekti Eka Ferdianto
